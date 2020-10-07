@@ -14,23 +14,23 @@ let similarWizardTemplate = document.querySelector('#similar-wizard-template')
 let wizards = [
   {
     name: WIZARD_NAMES[0],
-    coatColor: 'rgb(215, 210, 55))',
-    eyesColor: blue,
+    coatColor: 'rgb(215, 210, 55)',
+    eyesColor: 'blue',
   },
   {
     name: WIZARD_NAMES[1],
     coatColor: 'rgb(146, 100, 161)',
-    eyesColor: red,
+    eyesColor: 'red',
   },
   {
     name: WIZARD_NAMES[2],
     coatColor: 'rgb(56, 159, 117)',
-    eyesColor: yellow,
+    eyesColor: 'yellow',
   },
   {
     name: WIZARD_NAMES[3],
     coatColor: 'rgb(101, 137, 164)',
-    eyesColor: green,
+    eyesColor: 'green',
   }
 ];
 
